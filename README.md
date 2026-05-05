@@ -64,6 +64,17 @@ The project follows this process:
 1. downlown from repo either from website or using
    *git clone https://github.com/YarrBlackism/DescreteMathFinal/Win_main.py*
    <img width="1707" height="114" alt="image" src="https://github.com/user-attachments/assets/8874d8b6-7604-4419-87ca-27adaaa25391" />
-3. install depedences
-   *pip install requirements.txt*
+2. install depedences
+   *pip install -r requirements.txt*
+   <img width="953" height="350" alt="image" src="https://github.com/user-attachments/assets/be557137-2b80-4b4f-b5d6-ddd685b94453" />
+3. run locally using python with IDE of choice(preferably VScode) *note takes a couple seconds to start*
+   <img width="940" height="354" alt="image" src="https://github.com/user-attachments/assets/5a6cc450-1546-4963-84ad-a6de07b53ae0" />
+4. Use controls labeled and refer to graph generated for further analysis later.
+   <img width="968" height="174" alt="image" src="https://github.com/user-attachments/assets/b46e1c5b-0e77-43a3-97f5-caaf329b36fb" />
+   
+
+
+
+   
+
 
