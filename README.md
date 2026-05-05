@@ -1,4 +1,4 @@
-<img width="152" height="191" alt="image" src="https://github.com/user-attachments/assets/ec1ad60d-75af-4487-a78c-15036bf69415" />## Project Overview
+## Project Overview
 
 My main demo for this project will use a Raspberry Pi with the Hailort AI 13 TOPS (based on the Hailo-8L) to handle computer vision processing, along with GPS functionality for additional graphing and informational purposes. This project connects ideas from **graph theory** and **computer vision** by using **YOLOv11** to detect objects , and then representing the detected objects as vertices in a graph. If two objects are close enough to each other, the program creates an edge between them.
 
