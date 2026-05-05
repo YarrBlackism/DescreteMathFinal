@@ -26,6 +26,24 @@ Chen, Ruiting. “Dijkstra’s Shortest Path Algorithm and Its Application on Bu
 
 Biswas, Siddhartha Sankar, Bashir Alam, and M. N. Doja. “Generalization of Dijkstra’s Algorithm for Extraction of Shortest Paths in Directed Multigraphs.” *Journal of Computer Science*, vol. 9, no. 3, 2013, pp. 377–382.
 
+## video refrences for code 
+## note these videos where used to help me understand the articles and coding.
+*NetworkX Crash Course - Graph Theory in Python*
+https://youtu.be/VetBkjcm9Go?si=1WEwSHnolnKKrc-l
+
+
+How To Create Python Network Graphs || NetworkX Overview || Graph Plotting || Matplotlib || Advanced
+https://youtu.be/7NWeLuG8tVo?si=PT8QUhVUUFRt0MhB
+
+
+Dijkstras Shortest Path Algorithm Explained | With Example | Graph Theory
+https://youtu.be/bZkzH5x0SKU?si=RgZ39GwfFVlVpsE7
+
+
+Implementing Dijkstra's Algorithm from Scratch with Python: Graph Visualization Using NetworkX
+https://youtu.be/nAYASV84ius?si=HJ9jty_Gh3ChP_Oj
+
+
 ## Main Idea
 The project follows this process:
 
@@ -37,4 +55,6 @@ The project follows this process:
 6. If two objects are close enough, an edge is created between them.
 7. The edge receives a weight based on the distance between the two objects.
 8. The graph can then be analyzed using graph theory algorithms.
+
+
 
