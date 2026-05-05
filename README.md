@@ -43,6 +43,9 @@ https://youtu.be/bZkzH5x0SKU?si=RgZ39GwfFVlVpsE7
 Implementing Dijkstra's Algorithm from Scratch with Python: Graph Visualization Using NetworkX
 https://youtu.be/nAYASV84ius?si=HJ9jty_Gh3ChP_Oj
 
+Ultralytics YOLO Docs
+https://docs.ultralytics.com/modes/predict/
+
 
 ## Main Idea
 The project follows this process:
