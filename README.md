@@ -59,5 +59,11 @@ The project follows this process:
 7. The edge receives a weight based on the distance between the two objects.
 8. The graph can then be analyzed using graph theory algorithms.
 
+## Running on windows version
 
+1. downlown from repo either from website or using
+   *git clone https://github.com/YarrBlackism/DescreteMathFinal/Win_main.py*
+   <img width="1707" height="114" alt="image" src="https://github.com/user-attachments/assets/8874d8b6-7604-4419-87ca-27adaaa25391" />
+3. install depedences
+   *pip install requirements.txt*
 
