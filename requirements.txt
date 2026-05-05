@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+networkx
+matplotlib
+numpy
+pandas
+pyserial
+pynmea2
